@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import pickle
 
 # Load the csv file
-df = pd.read_csv("Week 41/iris.csv")
+df = pd.read_csv("iris.csv")
 
 print(df.head())
 
