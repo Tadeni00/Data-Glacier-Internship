@@ -1,0 +1,13 @@
+file_type: csv
+file_name: recommendations
+inbound_delimiter: ","
+outbound_delimiter: "|"
+columns: 
+    - app_id
+    - helpful
+    - funny
+    - date
+    - is_recommended
+    - hours
+    - user_id
+    - review_id
